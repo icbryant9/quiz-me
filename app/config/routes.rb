@@ -1,0 +1,1 @@
+get 'welcome', to: 'static_pages#welcome', as: 'welcome'
